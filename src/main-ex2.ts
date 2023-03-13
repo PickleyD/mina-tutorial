@@ -1,4 +1,4 @@
-import { IncrementSecret } from './IncrementSecret.js';
+import { IncrementSecret } from './IncrementSecret';
 import {
   isReady,
   shutdown,
